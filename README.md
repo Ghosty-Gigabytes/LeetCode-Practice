@@ -11,6 +11,7 @@ My archived LeetCode Practice solutions
 | [0268-missing-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0728-self-dividing-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
@@ -24,6 +25,7 @@ My archived LeetCode Practice solutions
 | ------- |
 | [0069-sqrtx](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
