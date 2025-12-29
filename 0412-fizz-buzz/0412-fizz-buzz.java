@@ -1,8 +1,7 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
         List<String> list = new ArrayList<>();
-        for (int i=0; i<n; i++){
-            i+=1;
+        for (int i=1; i<=n; i++){
             if (i %15 ==0){
                 list.add("FizzBuzz");
             }
@@ -16,7 +15,6 @@ class Solution {
             else{
                 list.add(String.valueOf(i));
             }
-            i-=1;
         }
         return list;
     }
