@@ -10,6 +10,7 @@ My archived LeetCode Practice solutions
 | [0258-add-digits](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0507-perfect-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
