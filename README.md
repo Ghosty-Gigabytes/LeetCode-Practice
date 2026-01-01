@@ -43,6 +43,7 @@ My archived LeetCode Practice solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,11 @@ My archived LeetCode Practice solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0415-add-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
