@@ -14,6 +14,7 @@ My archived LeetCode Practice solutions
 | [0441-arranging-coins](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -59,4 +60,16 @@ My archived LeetCode Practice solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ghosty-Gigabytes/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
